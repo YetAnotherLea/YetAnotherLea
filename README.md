@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on html-css projects. (Always eager to learn more!)
 - 📫 How to reach me: ... (I'm very shy, not ready for this step)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I just joined the programming/coding community. Please, bear with me.
+- ⚡ Fun fact: I just joined the programming/coding community. Please, bear with me. 
 
 <!---
 YetAnotherLea/YetAnotherLea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
