@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything food or cat related. (Who wouldn't be?)
 - 🌱 I’m currently learning chinese, video editing and coding. (Yes, I'm very tired)
 - 💞️ I’m looking to collaborate on html-css projects. (Always eager to learn more!)
-- 📫 How to reach me: ... (I'm very shy, not ready for this step)
+- 📫 How to reach me: (Not ready for this step yet)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I just joined the programming/coding community. Please, bear with me. 
 
