@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @YetAnotherLea
-- 👀 I’m interested in anything cat or food related. (Who wouldn't be?)
-- 🌱 I’m currently learning chinese, video editing and HTML/CSS. (Yes, I'm very tired)
+- 👀 I’m interested in anything cat or food related.
+- 🌱 I’m currently learning chinese, video editing and HTML/CSS.
